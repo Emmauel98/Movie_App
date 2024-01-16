@@ -1,0 +1,1 @@
+# This Folder contains small components that can be used accross screens.

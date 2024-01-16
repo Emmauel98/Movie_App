@@ -1,0 +1,1 @@
+# The screens directory is where I put all my application screens or pages.

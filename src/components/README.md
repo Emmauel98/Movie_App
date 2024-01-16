@@ -1,0 +1,1 @@
+# The components directory is where I put all my reusable components for different screens.
